@@ -41,7 +41,10 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         System.out.println("name a number between 1 and 5");
         numberOfExoplanets = keyboard.nextDouble();
 
-       
+        System.out.println("please write 1 for a 100% chance of a planet developing life");
+        f_l = keyboard.nextDouble();
+
+        
     }
 
 }
