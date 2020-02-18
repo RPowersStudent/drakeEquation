@@ -44,7 +44,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         System.out.println("please write 1 for a 100% chance of a planet developing life");
         f_l = keyboard.nextDouble();
 
-        
+        System.out.println("please write 1 for a 100% chance that the planet will develop intelligent life.");
+        f_i = keyboard.nextDouble();
     }
 
 }
