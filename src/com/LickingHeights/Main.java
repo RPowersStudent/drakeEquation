@@ -35,9 +35,13 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         System.out.println("name a whole number for the amount of stars formed per year.");
         rStar = keyboard.nextInt();
 
-        System.out.println("name a decimal between 0.2 to 0.5.");
+        System.out.println("name a decimal between 0.2 to 0.5");
         f_p = keyboard.nextDouble();
 
+        System.out.println("name a number between 1 and 5");
+        numberOfExoplanets = keyboard.nextDouble();
+
+       
     }
 
 }
