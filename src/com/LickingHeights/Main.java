@@ -49,6 +49,9 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
 
         System.out.println("please write a number between .1 and .2 for the percentage of life that will be able to communicate.");
         f_c = keyboard.nextDouble();
+
+        System.out.println("name a whole number between 1000 to 100,000,000 for the length of time the life will be able to communicate.");
+        L = keyboard.nextInt();
     }
 
 }
