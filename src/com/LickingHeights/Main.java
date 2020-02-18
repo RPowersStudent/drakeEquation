@@ -32,7 +32,9 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         Scanner keyboard;
         keyboard = new Scanner(System.in);
 
-
+        System.out.println("name a whole number for the amount of stars formed per year.");
+        rStar = keyboard.nextInt();
+        
 
     }
 
